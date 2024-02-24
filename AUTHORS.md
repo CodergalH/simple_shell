@@ -2,5 +2,5 @@
 
 # Project Authors
 
-Ohwojeheri Glorious-[(CodergalH)](https://github.com/CodergalH) <ohwojeheriglorious608@gmail.com>
+Ohwojeheri Glorious-[(CodergalH)](https://github.com/CodergalH)    <ohwojeheriglorious608@gmail.com>
 
